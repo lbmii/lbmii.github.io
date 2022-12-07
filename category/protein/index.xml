@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protein | Microbial Infections and Immunology</title>
+    <link>https://lbmii.github.io/category/protein/</link>
+      <atom:link href="https://lbmii.github.io/category/protein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Protein</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lbmii.github.io/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Protein</title>
+      <link>https://lbmii.github.io/category/protein/</link>
+    </image>
+    
+    <item>
+      <title>Swiss bioinformatics resource portal</title>
+      <link>https://lbmii.github.io/resources/database/expasy/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/resources/database/expasy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.expasy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Expasy&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is the bioinformatics resource portal of the &lt;a href=&#34;https://www.sib.swiss/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Swiss Institute of Bioinformatics (SIB)&lt;/a&gt;. It is an extensible and integrative portal which provides access to over 160 databases and software tools, developed by SIB Groups and supporting a range of life science and clinical research domains, from genomics, proteomics and structural biology, to evolution and phylogeny, systems biology and medical chemistry. Thanks to a user-friendly search engine, &lt;a href=&#34;https://www.expasy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Expasy&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; allows users to seamlessly 1) query in parallel a subset of SIB databases through a single search, and to 2) surface related information and knowledge from the complete set of &amp;gt;160 resources on the portal. &lt;a href=&#34;https://www.expasy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Expasy&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; provides information that is automatically aligned with the most recent release of each resources, thereby ensuring up-to-date information. The terms used in &lt;a href=&#34;https://www.expasy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Expasy&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; are based on the &lt;a href=&#34;https://academic.oup.com/bioinformatics/article/29/10/1325/255660&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EDAM comprehensive ontology&lt;/a&gt;, which was published on &lt;a href=&#34;https://academic.oup.com/bioinformatics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioinformatics&lt;/a&gt; in 2013. The article about can also be accessed and downloaded on &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23479348/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PubMed&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/expasy_hu49c47b7a40f3272e42c69cf438dfda89_165234_442c0f35ce294afae1878b67d4952eab.webp 400w,
+               /media/expasy_hu49c47b7a40f3272e42c69cf438dfda89_165234_41a8fd258ccfd9db20ff636c48a1eda7.webp 760w,
+               /media/expasy_hu49c47b7a40f3272e42c69cf438dfda89_165234_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/expasy_hu49c47b7a40f3272e42c69cf438dfda89_165234_442c0f35ce294afae1878b67d4952eab.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;506&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/category/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/resources/&#34; &gt;
+      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Universal protein data bank</title>
+      <link>https://lbmii.github.io/resources/database/wwpdb/</link>
+      <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/resources/database/wwpdb/</guid>
+      <description>&lt;h4 id=&#34;tabletrtd-bgcolora4d3eefont-size5worldwide-protein-data-bank-wwpdbfonttdtrtable&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=#A4D3EE&gt;&lt;font size=5&gt;Worldwide Protein Data Bank (wwPDB)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/h4&gt;
+&lt;p&gt;Since 1971, the &lt;a href=&#34;https://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Protein Data Bank archive (PDB)&lt;/a&gt; has served as the single repository of information about the 3D structures of proteins, nucleic acids, and complex assemblies. The &lt;a href=&#34;https://www.wwpdb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Worldwide PDB (wwPDB)&lt;/a&gt; organization manages the &lt;a href=&#34;https://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDB&lt;/a&gt; archive and ensures that the &lt;a href=&#34;https://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDB&lt;/a&gt; is freely and publicly available to the global community.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vision&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sustain freely accessible, interoperating Core Archives of structure data and metadata for biological macromolecules as an enduring public good to promote basic and applied research and education across the sciences.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Manage the wwPDB Core Archives as a public good according to the FAIR Principles.&lt;/li&gt;
+&lt;li&gt;Provide expert deposition, validation, biocuration, and remediation services at no charge to Data Depositors worldwide.&lt;/li&gt;
+&lt;li&gt;Ensure universal open access to public domain structural biology data with no limitations on usage.&lt;/li&gt;
+&lt;li&gt;Develop and promote community-endorsed data standards for archiving and exchange of global structural biology data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;tabletrtd-bgcolora4d3eefont-size5rcsb-protein-data-bank-pdbfonttdtrtable&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=#A4D3EE&gt;&lt;font size=5&gt;RCSB Protein Data Bank (PDB)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/h4&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDB&lt;/a&gt; was established in 1971 at Brookhaven National Laboratory under the leadership of Walter Hamilton and originally contained 7 structures. After Hamilton&amp;rsquo;s untimely death, Tom Koetzle began to lead the &lt;a href=&#34;https://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDB&lt;/a&gt; in 1973, and then Joel Sussman in 1994. Led by Helen M. Berman, the Research Collaboratory for Structural Bioinformatics (RCSB) became responsible for the management of the &lt;a href=&#34;https://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDB&lt;/a&gt; in 1998 in response to an RFP and a lengthy review process. Three institutions were involved: Rutgers, UCSD/SDSC, and CARB/NIST. In 2003, the &lt;a href=&#34;https://www.wwpdb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Worldwide Protein Data Bank (wwPDB)&lt;/a&gt; was formed to maintain a single &lt;a href=&#34;https://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDB&lt;/a&gt; archive of macromolecular structural data that is freely and publicly available to the global community. It consists of organizations that act as deposition, data processing and distribution centers for &lt;a href=&#34;https://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDB&lt;/a&gt; data.&lt;/p&gt;
+&lt;h4 id=&#34;tabletrtd-bgcolora4d3eefont-size5protein-data-bank-in-europe-pdbefonttdtrtable&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=#A4D3EE&gt;&lt;font size=5&gt;Protein Data Bank in Europe (PDBe)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ebi.ac.uk/pdbe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDBe&lt;/a&gt; is a founding member of the &lt;a href=&#34;https://www.wwpdb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Worldwide Protein Data Bank&lt;/a&gt; which collects, organises and disseminates data on biological macromolecular structures. In collaboration with &lt;a href=&#34;https://www.wwpdb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the other Worldwide Protein Data Bank (wwPDB)&lt;/a&gt; partners, we work to collate, maintain and provide access to the global repository of macromolecular structure models, the &lt;a href=&#34;https://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Protein Data Bank (PDB)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To provide an integrated resource of high-quality macromolecular structures and related data and make it available to the biomedical community via intuitive user interfaces.&lt;/li&gt;
+&lt;li&gt;To maintain in-house expertise in all the major structure-determination techniques (X-ray, NMR and EM) in order to stay abreast of technical and methodological developments in these fields, and to work with the community on issues of mutual interest (such as data representation, harvesting, formats and standards, or validation of structural data).&lt;/li&gt;
+&lt;li&gt;To provide high-quality deposition and annotation facilities for structural data as a wwPDB and EMDataBank deposition site.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;tabletrtd-bgcolora4d3eefont-size5protein-data-bank-japan-pdbjfonttdtrtable&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=#A4D3EE&gt;&lt;font size=5&gt;Protein Data Bank Japan (PDBj)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://pdbj.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDBj (Protein Data Bank Japan)&lt;/a&gt; maintains the single global &lt;a href=&#34;https://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDB&lt;/a&gt;/BMRB/&lt;a href=&#34;https://www.ebi.ac.uk/emdb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMDB&lt;/a&gt; archives of macromolecular structures and provide integrated tools, under the Joint Usage and Research activities of the Institute for Protein Research. The database is supported by JST-NBDC (JPMJND2205) and AMED-BINDS. &lt;a href=&#34;https://pdbj.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDBj&lt;/a&gt;&amp;rsquo;s logo design incorporates cytochrome c (PDBID: 1cyc), which was the first structure determined in Japan.&lt;/p&gt;
+&lt;h4 id=&#34;tabletrtd-bgcolora4d3eefont-size5electron-microscopy-data-bank-emdbfonttdtrtable&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=#A4D3EE&gt;&lt;font size=5&gt;Electron Microscopy Data Bank (EMDB)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/h4&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.ebi.ac.uk/emdb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Electron Microscopy Data Bank (EMDB)&lt;/a&gt; is a public repository for electron cryo-microscopy volume maps and tomograms of macromolecular complexes and subcellular structures. It covers a variety of techniques, including single-particle analysis, electron tomography, and electron crystallography. &lt;a href=&#34;https://www.ebi.ac.uk/emdb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMDB&lt;/a&gt; was founded at EMBL-EBI in 2002 under the leadership of Kim Henrick. From 2007, the archive has been operated jointly by &lt;a href=&#34;https://www.ebi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMBL-EBI&lt;/a&gt; and the Research Collaboratory for Structural Bioinformatics (RCSB). In 2013, the &lt;a href=&#34;https://pdbj.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Protein Data Bank Japan (PDBj)&lt;/a&gt; also became involved in &lt;a href=&#34;https://www.ebi.ac.uk/emdb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMDB&lt;/a&gt;. As of the first of January, 2021, &lt;a href=&#34;https://www.ebi.ac.uk/emdb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMDB&lt;/a&gt; is an archive operated under the aegis of the &lt;a href=&#34;https://www.wwpdb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Worldwide Protein Data Bank (wwPDB)&lt;/a&gt;, and has also joined that organisation as a full member.&lt;/p&gt;
+&lt;p&gt;Results of cryo-EM studies are archived in three collaborating archives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ebi.ac.uk/emdb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMDB&lt;/a&gt; stores the processed 3D volumes and tomograms.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ebi.ac.uk/emdb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMDB&lt;/a&gt; stores the processed 3D volumes and tomograms.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ebi.ac.uk/empiar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMPIAR (Electron Microscopy Public Image Archive)&lt;/a&gt; stores the raw EM data underpinning the data in &lt;a href=&#34;https://www.ebi.ac.uk/emdb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMDB&lt;/a&gt;/&lt;a href=&#34;https://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDB&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Data for &lt;a href=&#34;https://www.ebi.ac.uk/emdb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMDB&lt;/a&gt; and &lt;a href=&#34;https://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDB&lt;/a&gt; can be deposited through the wwPDB deposition and annotation system OneDep. &lt;a href=&#34;https://www.ebi.ac.uk/empiar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMPIAR&lt;/a&gt; is a companion archive to &lt;a href=&#34;https://www.ebi.ac.uk/emdb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMDB&lt;/a&gt;, founded at and operated by &lt;a href=&#34;https://www.ebi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMBL-EBI&lt;/a&gt;, and with a mirror site at &lt;a href=&#34;https://pdbj.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDBj&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;tabletrtd-bgcolora4d3eefont-size5bmrbfonttdtrtable&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=#A4D3EE&gt;&lt;font size=5&gt;BMRB&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://bmrb.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BMRB&lt;/a&gt; collects, annotates, archives, and disseminates spectral and quantitative data derived from NMR spectroscopic investigations of biological macromolecules and metabolites. &lt;a href=&#34;https://bmrb.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BMRB&lt;/a&gt; makes bio-NMR data FAIR, Findable, Accessible, Interoperable, Re-usable.&lt;/p&gt;
+&lt;h4 id=&#34;tabletrtd-bgcolora4d3eefont-size5emdataresourcefonttdtrtable&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=#A4D3EE&gt;&lt;font size=5&gt;EMDataResource&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/h4&gt;
+&lt;p&gt;Cryo electron microscopy enables the determination of 3D structures of macromolecular complexes and cells from 2 to 100 Å resolution. &lt;a href=&#34;https://www.emdataresource.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMDataResource&lt;/a&gt; is the unified global portal for one-stop deposition and retrieval of 3DEM density maps, atomic models and associated metadata, and is a joint effort among investigators of the Stanford/SLAC CryoEM Facility and the Research Collaboratory for Structural Bioinformatics (RCSB) at Rutgers, in collaboration with the &lt;a href=&#34;https://www.ebi.ac.uk/emdb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMDB&lt;/a&gt; team at the European Bioinformatics Institute. &lt;a href=&#34;https://www.emdataresource.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMDataResource&lt;/a&gt; also serves as a resource for news, events, software tools, data standards, and validation methods for the 3DEM community.&lt;/p&gt;
+&lt;p&gt;The major goal of the &lt;a href=&#34;https://www.emdataresource.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMDataResource&lt;/a&gt; project in the current funding period is to work with the 3DEM community to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;establish data-validation methods that can be used in the process of structure determination&lt;/li&gt;
+&lt;li&gt;define the key indicators of a well-determined structure that should accompany every deposition&lt;/li&gt;
+&lt;li&gt;implement appropriate validation procedures for maps and map-derived models into a 3DEM validation pipeline&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The EM Validation Task Force (EM VTF) made initial recommendations to guide development of 3DEM validation criteria. The aim is to facilitate the many processes needed to assess, establish, and disseminate validation methods and standards, including organization of community challenge activities.&lt;/p&gt;
+&lt;h4 id=&#34;tabletrtd-bgcolora4d3eefont-size5universal-protein-resource-uniprotfonttdtrtable&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=#A4D3EE&gt;&lt;font size=5&gt;Universal Protein Resource (UniProt)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/h4&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.uniprot.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UniProt&lt;/a&gt; is a comprehensive resource for protein sequence and annotation data. The &lt;a href=&#34;https://www.uniprot.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UniProt&lt;/a&gt; databases are the &lt;strong&gt;UniProt Knowledgebase (UniProtKB)&lt;/strong&gt;, the &lt;strong&gt;UniProt Reference Clusters (UniRef)&lt;/strong&gt;, and the &lt;strong&gt;UniProt Archive (UniParc)&lt;/strong&gt;. The &lt;a href=&#34;https://www.uniprot.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UniProt&lt;/a&gt; consortium and host institutions &lt;a href=&#34;https://www.ebi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMBL-EBI&lt;/a&gt;, &lt;a href=&#34;https://www.sib.swiss/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIB&lt;/a&gt; and &lt;a href=&#34;https://proteininformationresource.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIR&lt;/a&gt; are committed to the long-term preservation of the &lt;a href=&#34;https://www.uniprot.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UniProt&lt;/a&gt; databases. &lt;a href=&#34;https://www.uniprot.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UniProt&lt;/a&gt; is a collaboration between the &lt;a href=&#34;https://www.ebi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Bioinformatics Institute (EMBL-EBI)&lt;/a&gt;, the &lt;a href=&#34;https://www.sib.swiss/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Swiss Institute of Bioinformatics (SIB)&lt;/a&gt; and the &lt;a href=&#34;https://proteininformationresource.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Protein Information Resource (PIR)&lt;/a&gt;. Across the three institutes more than 100 people are involved through different tasks such as database curation, software development and support.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ebi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMBL-EBI&lt;/a&gt; and &lt;a href=&#34;https://www.sib.swiss/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIB&lt;/a&gt; together used to produce Swiss-Prot and TrEMBL, while &lt;a href=&#34;https://proteininformationresource.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIR&lt;/a&gt; produced the Protein Sequence Database (PIR-PSD). These two data sets coexisted with different protein sequence coverage and annotation priorities. TrEMBL (Translated EMBL Nucleotide Sequence Data Library) was originally created because sequence data was being generated at a pace that exceeded Swiss-Prot&amp;rsquo;s ability to keep up. Meanwhile, &lt;a href=&#34;https://proteininformationresource.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIR&lt;/a&gt; maintained the PIR-PSD and related databases, including iProClass, a database of protein sequences and curated families. In 2002 the three institutes decided to pool their resources and expertise and formed the &lt;a href=&#34;https://www.uniprot.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UniProt&lt;/a&gt; consortium.&lt;/p&gt;
+&lt;h4 id=&#34;tabletrtd-bgcolora4d3eefont-size5the-human-protein-atlasfonttdtrtable&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=#A4D3EE&gt;&lt;font size=5&gt;The Human Protein Atlas&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.proteinatlas.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;The Human Protein Atlas&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; is a Swedish-based program initiated in 2003 with the aim to map all the human proteins in cells, tissues, and organs using an integration of various omics technologies, including antibody-based imaging, mass spectrometry-based proteomics, transcriptomics, and systems biology. All the data in the knowledge resource is open access to allow scientists both in academia and industry to freely access the data for exploration of the human proteome.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/category/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/resources/&#34; &gt;
+      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

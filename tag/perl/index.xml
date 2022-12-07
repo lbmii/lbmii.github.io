@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perl | Microbial Infections and Immunology</title>
+    <link>https://lbmii.github.io/tag/perl/</link>
+      <atom:link href="https://lbmii.github.io/tag/perl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Perl</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lbmii.github.io/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Perl</title>
+      <link>https://lbmii.github.io/tag/perl/</link>
+    </image>
+    
+    <item>
+      <title>Circular visualization for high-throughput data</title>
+      <link>https://lbmii.github.io/resources/softwares/circvis/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/resources/softwares/circvis/</guid>
+      <description>&lt;p&gt;Circular layout is an efficient way for the visualization of huge amounts of information and flexible NOT only for genomics.&lt;/p&gt;
+&lt;p&gt;When faced with generating a visual representation of information, it&amp;rsquo;s useful to ask the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the important features and patterns I wish to communicate?&lt;/li&gt;
+&lt;li&gt;What are the unimportant features and patterns, and how can I effectively minimize their visual impact? Can I hide them altogether?&lt;/li&gt;
+&lt;li&gt;How dense (or sparse) is my data?&lt;/li&gt;
+&lt;li&gt;What data resolution is required? Can I bin the data, or show summary statistics instead of the data (e.g. min/avg/max)?&lt;/li&gt;
+&lt;li&gt;What is the length scale of significant variation and non-signficant noise?&lt;/li&gt;
+&lt;li&gt;In what media will the figure be shown? How does the resolution of the media compare to the resolution of my data?&lt;/li&gt;
+&lt;li&gt;Do I have the time/energy/motivation to worry about black-and-white reproduction or readers with color blindness?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://circos.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Circos&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a software package for visualizing data and information. It visualizes data in a circular layout — this makes Circos ideal for exploring relationships between objects or positions. There are other reasons why a circular layout is advantageous, not the least being the fact that it is attractive. &lt;a href=&#34;http://circos.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Circos&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is ideal for creating publication-quality infographics and illustrations with a high data-to-ink ratio, richly layered data and pleasant symmetries. You have fine control each element in the figure to tailor its focus points and detail to your audience. &lt;a href=&#34;http://circos.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Circos&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is flexible. Although originally designed for visualizing genomic data, it can create figures from data in any field—from genomics to visualizing migration to mathematical art. If you have data that describes relationships or multi-layered annotations of one or more scales, &lt;a href=&#34;http://circos.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Circos&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is for you. &lt;a href=&#34;http://circos.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Circos&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; can be automated. It is controlled by plain-text configuration files, which makes it easily incorporated into data acquisition, analysis and reporting pipelines (a data pipeline is a multi-step process in which data is analyzed by multiple and typically independent tools, each passing their output as the input to the next step). Before &lt;a href=&#34;http://circos.ca/software/download/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;download&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;http://circos.ca/software/install&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;install&lt;/em&gt;&lt;/a&gt; &lt;a href=&#34;http://circos.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Circos&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;, you need to understand the &lt;a href=&#34;http://circos.ca/software/requirements/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;requirements&lt;/code&gt;&lt;/a&gt;. If you are a Windows user, read about pertinent &lt;a href=&#34;http://circos.ca/documentation/tutorials/configuration/unix_vs_windows/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;differences between UNIX and Windows&lt;/code&gt;&lt;/a&gt;. To learn how to use &lt;a href=&#34;http://circos.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Circos&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;, &lt;code&gt;free tutorials&lt;/code&gt; are also &lt;a href=&#34;http://circos.ca/documentation/tutorials/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available online&lt;/a&gt;. Alternatively, you can &lt;a href=&#34;http://circos.ca/software/download/tutorials/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here&lt;/a&gt; and scroll down to the bottom to &lt;code&gt;download the tutorials&lt;/code&gt;, which contain many examples to demonstrate features of &lt;a href=&#34;http://circos.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Circos&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-screen-shot-of-circos-website&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screen shot of Circos website&#34; srcset=&#34;
+               /media/circos_hu17fdf256f26ad48685fa2a1664a3a11d_533571_d1bef767c31e1a2df57446ad3bdbdf66.webp 400w,
+               /media/circos_hu17fdf256f26ad48685fa2a1664a3a11d_533571_56a8051fc99ce5399b671648e28f044d.webp 760w,
+               /media/circos_hu17fdf256f26ad48685fa2a1664a3a11d_533571_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/circos_hu17fdf256f26ad48685fa2a1664a3a11d_533571_d1bef767c31e1a2df57446ad3bdbdf66.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;727&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Screen shot of Circos website
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Apart from &lt;a href=&#34;http://circos.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Circos&lt;/a&gt;, an &lt;a href=&#34;https://cran.r-project.org/web/packages/available_packages_by_name.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R package&lt;/a&gt; named &lt;a href=&#34;https://cran.r-project.org/web/packages/circlize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;circlize&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; can help you as well. The &lt;a href=&#34;https://cran.r-project.org/web/packages/circlize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;circlize&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; package was developed by Zuguang GU &lt;em&gt;etc.&lt;/em&gt; and published on &lt;a href=&#34;https://academic.oup.com/bioinformatics/article/30/19/2811/2422259?login=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioinformatics&lt;/a&gt; and is free available on &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24930139/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PubMed&lt;/a&gt;. If you are to learn &lt;a href=&#34;https://cran.r-project.org/web/packages/circlize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;circlize&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;, you can turn to the &lt;code&gt;free online tutorial&lt;/code&gt;, which can be accessed by &lt;a href=&#34;https://jokergoo.github.io/circlize_book/book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;clicking here&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-circlize-implements-and-enhances-circular-visualization-in-r&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;circlize implements and enhances circular visualization in R&#34; srcset=&#34;
+               /media/circlize_huc77ec5577e2e7d9b225bd6492fa8acd7_308457_5e1d5af82c3ed7faee828e7bb5a9389d.webp 400w,
+               /media/circlize_huc77ec5577e2e7d9b225bd6492fa8acd7_308457_ec79e8c575d4d0cadd8b055f6b5d523d.webp 760w,
+               /media/circlize_huc77ec5577e2e7d9b225bd6492fa8acd7_308457_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/circlize_huc77ec5577e2e7d9b225bd6492fa8acd7_308457_5e1d5af82c3ed7faee828e7bb5a9389d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;491&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      circlize implements and enhances circular visualization in R
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/category/softwares/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Softwares &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/resources/&#34; &gt;
+      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

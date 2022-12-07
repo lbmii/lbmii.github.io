@@ -1,0 +1,62 @@
+,GPL,Organism,Bioc_Package,,Chip_Name
+1,GPL32,Mus musculus,mgu74a.db,,[MG_U74A] Affymetrix Murine Genome U74A Array
+2,GPL33,Mus musculus,mgu74b.db,,[MG_U74B] Affymetrix Murine Genome U74B Array
+3,GPL34,Mus musculus,mgu74c.db,,[MG_U74C] Affymetrix Murine Genome U74C Array
+4,GPL74,Homo sapiens,hcg110.db,,[HC_G110] Affymetrix Human Cancer Array
+5,GPL75,Mus musculus,mu11ksuba.db,,[Mu11KsubA] Affymetrix Murine 11K SubA Array
+6,GPL76,Mus musculus,mu11ksubb.db,,[Mu11KsubB] Affymetrix Murine 11K SubB Array
+7,GPL77,Mus musculus,mu19ksuba.db,,[Mu19KsubA] Affymetrix Murine 19K SubA Array
+8,GPL78,Mus musculus,mu19ksubb.db,,[Mu19KsubB] Affymetrix Murine 19K SubB Array
+9,GPL79,Mus musculus,mu19ksubc.db,,[Mu19KsubC] Affymetrix Murine 19K SubC Array
+10,GPL80,Homo sapiens,hu6800.db,,[Hu6800] Affymetrix Human Full Length HuGeneFL Array
+11,GPL81,Mus musculus,mgu74av2.db,,[MG_U74Av2] Affymetrix Murine Genome U74A Version 2 Array
+12,GPL82,Mus musculus,mgu74bv2.db,,[MG_U74Bv2] Affymetrix Murine Genome U74B Version 2 Array
+13,GPL83,Mus musculus,mgu74cv2.db,,[MG_U74Cv2] Affymetrix Murine Genome U74 Version 2 Array
+14,GPL85,Rattus norvegicus,rgu34a.db,,[RG_U34A] Affymetrix Rat Genome U34 Array
+15,GPL86,Rattus norvegicus,rgu34b.db,,[RG_U34B] Affymetrix Rat Genome U34 Array
+16,GPL87,Rattus norvegicus,rgu34c.db,,[RG_U34C] Affymetrix Rat Genome U34 Array
+17,GPL88,Rattus norvegicus,rnu34.db,,[RN_U34] Affymetrix Rat Neurobiology U34 Array
+18,GPL89,Rattus norvegicus,rtu34.db,,[RT_U34] Affymetrix Rat Toxicology U34 Array
+19,GPL91,Homo sapiens,hgu95av2.db,,[HG_U95A] Affymetrix Human Genome U95A Array
+20,GPL92,Homo sapiens,hgu95b.db,,[HG_U95B] Affymetrix Human Genome U95B Array
+21,GPL93,Homo sapiens,hgu95c.db,,[HG_U95C] Affymetrix Human Genome U95C Array
+22,GPL94,Homo sapiens,hgu95d.db,,[HG_U95D] Affymetrix Human Genome U95D Array
+23,GPL95,Homo sapiens,hgu95e.db,,[HG_U95E] Affymetrix Human Genome U95E Array
+24,GPL96,Homo sapiens,hgu133a.db,,[HG-U133A] Affymetrix Human Genome U133A Array
+25,GPL97,Homo sapiens,hgu133b.db,,[HG-U133B] Affymetrix Human Genome U133B Array
+26,GPL98,Homo sapiens,hu35ksuba.db,,[Hu35KsubA] Affymetrix Human 35K SubA Array
+27,GPL99,Homo sapiens,hu35ksubb.db,,[Hu35KsubB] Affymetrix Human 35K SubB Array
+28,GPL100,Homo sapiens,hu35ksubc.db,,[Hu35KsubC] Affymetrix Human 35K SubC Array
+29,GPL101,Homo sapiens,hu35ksubd.db,,[Hu35KsubD] Affymetrix Human 35K SubD Array
+30,GPL201,Homo sapiens,hgfocus.db,,[HG-Focus] Affymetrix Human HG-Focus Target Array
+31,GPL339,Mus musculus,moe430a.db,,[MOE430A] Affymetrix Mouse Expression 430A Array
+32,GPL340,Mus musculus,mouse4302.db,,[MOE430B] Affymetrix Mouse Expression 430B Array
+33,GPL341,Rattus norvegicus,rae230a.db,,[RAE230A] Affymetrix Rat Expression 230A Array
+34,GPL342,Rattus norvegicus,rae230b.db,,[RAE230B] Affymetrix Rat Expression 230B Array
+35,GPL570,Homo sapiens,hgu133plus2.db,,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array
+36,GPL571,Homo sapiens,hgu133a2.db,,[HG-U133A_2] Affymetrix Human Genome U133A 2.0 Array
+37,GPL886,Homo sapiens,hgug4111a.db,,Agilent-011871 Human 1B Microarray G4111A (Feature Number version)
+38,GPL887,Homo sapiens,hgug4110b.db,,Agilent-012097 Human 1A Microarray (V2) G4110B (Feature Number version)
+39,GPL1261,Mus musculus,mouse430a2.db,,[Mouse430_2] Affymetrix Mouse Genome 430 2.0 Array
+40,GPL1352,Homo sapiens,u133x3p.db,,[U133_X3P] Affymetrix Human X3P Array
+41,GPL1355,Rattus norvegicus,rat2302.db,,[Rat230_2] Affymetrix Rat Genome 230 2.0 Array
+42,GPL1708,Homo sapiens,hgug4112a.db,,Agilent-012391 Whole Human Genome Oligo Microarray G4112A (Feature Number version)
+43,GPL2891,Homo sapiens,h20kcod.db,,GE Healthcare/Amersham Biosciences CodeLink? UniSet Human 20K I Bioarray
+44,GPL2898,Rattus norvegicus,adme16cod.db,,GE Healthcare/Amersham Biosciences CodeLink? ADME Rat 16-Assay Bioarray
+45,GPL3921,Homo sapiens,hthgu133a.db,,[HT_HG-U133A] Affymetrix HT Human Genome U133A Array
+46,GPL4191,Homo sapiens,h10kcod.db,,CodeLink UniSet Human I Bioarray
+47,GPL5689,Homo sapiens,hgug4100a.db,,Agilent Human 1 cDNA Microarray (G4100A) [layout C]
+48,GPL6097,Homo sapiens,illuminaHumanv1.db,,Illumina human-6 v1.0 expression beadchip
+49,GPL6102,Homo sapiens,illuminaHumanv2.db,,Illumina human-6 v2.0 expression beadchip
+50,GPL6244,Homo sapiens,hugene10sttranscriptcluster.db,,[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version]
+51,GPL6947,Homo sapiens,illuminaHumanv3.db,,Illumina HumanHT-12 V3.0 expression beadchip
+52,GPL8300,Homo sapiens,hgu95av2.db,,[HG_U95Av2] Affymetrix Human Genome U95 Version 2 Array
+53,GPL8490,Homo sapiens,IlluminaHumanMethylation27k.db,,Illumina HumanMethylation27 BeadChip (HumanMethylation27_270596_v.1.2)
+54,GPL10558,Homo sapiens,illuminaHumanv4.db,,Illumina HumanHT-12 V4.0 expression beadchip
+55,GPL11532,Homo sapiens,hugene11sttranscriptcluster.db,,[HuGene-1_1-st] Affymetrix Human Gene 1.1 ST Array [transcript (gene) version]
+56,GPL13497,Homo sapiens,HsAgilentDesign026652.db,,Agilent-026652 Whole Human Genome Microarray 4x44K v2 (Probe Name version)
+57,GPL13534,Homo sapiens,IlluminaHumanMethylation450k.db,,Illumina HumanMethylation450 BeadChip (HumanMethylation450_15017482)
+58,GPL13667,Homo sapiens,hgu219.db,,[HG-U219] Affymetrix Human Genome U219 Array
+59,GPL15380,Homo sapiens,GGHumanMethCancerPanelv1.db,,Illumina Sentrix Array Matrix (SAM) - GoldenGate Methylation Cancer Panel I
+60,GPL15396,Homo sapiens,hthgu133b.db,,[HT_HG-U133B] Affymetrix HT Human Genome U133B Array [custom CDF: ENTREZ brainarray v. 14]
+61,GPL17897,Homo sapiens,hthgu133a.db,,[HT_HG-U133A] Affymetrix Human Genome U133A Array (custom CDF: HTHGU133A_Hs_ENTREZG.cdf version 17.0.0)

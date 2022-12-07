@@ -1,0 +1,1823 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evernotes | Microbial Infections and Immunology</title>
+    <link>https://lbmii.github.io/category/evernotes/</link>
+      <atom:link href="https://lbmii.github.io/category/evernotes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evernotes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lbmii.github.io/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Evernotes</title>
+      <link>https://lbmii.github.io/category/evernotes/</link>
+    </image>
+    
+    <item>
+      <title>Bioconductor packages for GEO platform annotation</title>
+      <link>https://lbmii.github.io/resources/evernote/gplbioc/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/resources/evernote/gplbioc/</guid>
+      <description>&lt;table class=&#34;table&#34;&gt;
+  
+    
+    
+    &lt;tr&gt;  &lt;th&gt;&lt;/th&gt;  &lt;th&gt;GPL&lt;/th&gt;  &lt;th&gt;Organism&lt;/th&gt;  &lt;th&gt;Bioc_Package&lt;/th&gt;  &lt;th&gt;&lt;/th&gt;  &lt;th&gt;Chip_Name&lt;/th&gt;  &lt;/tr&gt;
+  
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL32&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;mgu74a.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[MG_U74A] Affymetrix Murine Genome U74A Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;2&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL33&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;mgu74b.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[MG_U74B] Affymetrix Murine Genome U74B Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;3&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL34&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;mgu74c.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[MG_U74C] Affymetrix Murine Genome U74C Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;4&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL74&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hcg110.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HC_G110] Affymetrix Human Cancer Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;5&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL75&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;mu11ksuba.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[Mu11KsubA] Affymetrix Murine 11K SubA Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;6&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL76&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;mu11ksubb.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[Mu11KsubB] Affymetrix Murine 11K SubB Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;7&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL77&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;mu19ksuba.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[Mu19KsubA] Affymetrix Murine 19K SubA Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;8&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL78&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;mu19ksubb.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[Mu19KsubB] Affymetrix Murine 19K SubB Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;9&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL79&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;mu19ksubc.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[Mu19KsubC] Affymetrix Murine 19K SubC Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;10&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL80&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hu6800.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[Hu6800] Affymetrix Human Full Length HuGeneFL Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;11&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL81&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;mgu74av2.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[MG_U74Av2] Affymetrix Murine Genome U74A Version 2 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;12&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL82&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;mgu74bv2.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[MG_U74Bv2] Affymetrix Murine Genome U74B Version 2 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;13&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL83&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;mgu74cv2.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[MG_U74Cv2] Affymetrix Murine Genome U74 Version 2 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;14&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL85&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Rattus norvegicus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;rgu34a.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[RG_U34A] Affymetrix Rat Genome U34 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;15&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL86&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Rattus norvegicus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;rgu34b.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[RG_U34B] Affymetrix Rat Genome U34 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;16&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL87&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Rattus norvegicus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;rgu34c.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[RG_U34C] Affymetrix Rat Genome U34 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;17&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL88&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Rattus norvegicus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;rnu34.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[RN_U34] Affymetrix Rat Neurobiology U34 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;18&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL89&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Rattus norvegicus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;rtu34.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[RT_U34] Affymetrix Rat Toxicology U34 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;19&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL91&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgu95av2.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HG_U95A] Affymetrix Human Genome U95A Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;20&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL92&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgu95b.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HG_U95B] Affymetrix Human Genome U95B Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;21&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL93&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgu95c.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HG_U95C] Affymetrix Human Genome U95C Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;22&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL94&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgu95d.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HG_U95D] Affymetrix Human Genome U95D Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;23&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL95&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgu95e.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HG_U95E] Affymetrix Human Genome U95E Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;24&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL96&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgu133a.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HG-U133A] Affymetrix Human Genome U133A Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;25&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL97&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgu133b.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HG-U133B] Affymetrix Human Genome U133B Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;26&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL98&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hu35ksuba.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[Hu35KsubA] Affymetrix Human 35K SubA Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;27&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL99&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hu35ksubb.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[Hu35KsubB] Affymetrix Human 35K SubB Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;28&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL100&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hu35ksubc.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[Hu35KsubC] Affymetrix Human 35K SubC Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;29&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL101&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hu35ksubd.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[Hu35KsubD] Affymetrix Human 35K SubD Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;30&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL201&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgfocus.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HG-Focus] Affymetrix Human HG-Focus Target Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;31&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL339&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;moe430a.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[MOE430A] Affymetrix Mouse Expression 430A Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;32&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL340&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;mouse4302.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[MOE430B] Affymetrix Mouse Expression 430B Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;33&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL341&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Rattus norvegicus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;rae230a.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[RAE230A] Affymetrix Rat Expression 230A Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;34&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL342&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Rattus norvegicus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;rae230b.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[RAE230B] Affymetrix Rat Expression 230B Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;35&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL570&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgu133plus2.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;36&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL571&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgu133a2.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HG-U133A_2] Affymetrix Human Genome U133A 2.0 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;37&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL886&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgug4111a.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Agilent-011871 Human 1B Microarray G4111A (Feature Number version)&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;38&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL887&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgug4110b.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Agilent-012097 Human 1A Microarray (V2) G4110B (Feature Number version)&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;39&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL1261&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Mus musculus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;mouse430a2.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[Mouse430_2] Affymetrix Mouse Genome 430 2.0 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;40&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL1352&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;u133x3p.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[U133_X3P] Affymetrix Human X3P Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;41&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL1355&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Rattus norvegicus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;rat2302.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[Rat230_2] Affymetrix Rat Genome 230 2.0 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;42&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL1708&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgug4112a.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Agilent-012391 Whole Human Genome Oligo Microarray G4112A (Feature Number version)&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;43&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL2891&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;h20kcod.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GE Healthcare/Amersham Biosciences CodeLink? UniSet Human 20K I Bioarray&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;44&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL2898&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Rattus norvegicus&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;adme16cod.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GE Healthcare/Amersham Biosciences CodeLink? ADME Rat 16-Assay Bioarray&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;45&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL3921&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hthgu133a.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HT_HG-U133A] Affymetrix HT Human Genome U133A Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;46&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL4191&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;h10kcod.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;CodeLink UniSet Human I Bioarray&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;47&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL5689&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgug4100a.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Agilent Human 1 cDNA Microarray (G4100A) [layout C]&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;48&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL6097&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;illuminaHumanv1.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Illumina human-6 v1.0 expression beadchip&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;49&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL6102&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;illuminaHumanv2.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Illumina human-6 v2.0 expression beadchip&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;50&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL6244&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hugene10sttranscriptcluster.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version]&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;51&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL6947&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;illuminaHumanv3.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Illumina HumanHT-12 V3.0 expression beadchip&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;52&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL8300&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgu95av2.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HG_U95Av2] Affymetrix Human Genome U95 Version 2 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;53&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL8490&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;IlluminaHumanMethylation27k.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Illumina HumanMethylation27 BeadChip (HumanMethylation27_270596_v.1.2)&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;54&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL10558&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;illuminaHumanv4.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Illumina HumanHT-12 V4.0 expression beadchip&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;55&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL11532&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hugene11sttranscriptcluster.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HuGene-1_1-st] Affymetrix Human Gene 1.1 ST Array [transcript (gene) version]&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;56&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL13497&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;HsAgilentDesign026652.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Agilent-026652 Whole Human Genome Microarray 4x44K v2 (Probe Name version)&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;57&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL13534&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;IlluminaHumanMethylation450k.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Illumina HumanMethylation450 BeadChip (HumanMethylation450_15017482)&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;58&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL13667&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hgu219.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HG-U219] Affymetrix Human Genome U219 Array&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;59&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL15380&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GGHumanMethCancerPanelv1.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Illumina Sentrix Array Matrix (SAM) - GoldenGate Methylation Cancer Panel I&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;60&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL15396&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hthgu133b.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HT_HG-U133B] Affymetrix HT Human Genome U133B Array [custom CDF: ENTREZ brainarray v. 14]&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;61&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;GPL17897&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;Homo sapiens&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;hthgu133a.db&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;[HT_HG-U133A] Affymetrix Human Genome U133A Array (custom CDF: HTHGU133A_Hs_ENTREZG.cdf version 17.0.0)&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+  
+&lt;/table&gt;
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/category/evernote/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Evernotes &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/resources/&#34; &gt;
+      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to get all genes with R</title>
+      <link>https://lbmii.github.io/resources/evernote/genequick/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/resources/evernote/genequick/</guid>
+      <description>&lt;p&gt;These are guest scripts originally appeared in &lt;code&gt;bio-info-trainee&lt;/code&gt; coded by &lt;em&gt;&lt;strong&gt;Jimmy Zeng&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rm(list = ls())
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;library(org.Hs.eg.db)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;eg2symbol &amp;lt;- toTable(org.Hs.egSYMBOL)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;eg2name &amp;lt;- toTable(org.Hs.egGENENAME)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;eg2alias &amp;lt;- toTable(org.Hs.egALIAS2EG)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;eg2alis_list &amp;lt;- lapply(split(eg2alias, eg2alias$gene_id), function(x){
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  paste0(x[,2], collapse = &amp;#34;;&amp;#34;)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;})
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GeneList &amp;lt;- mappedLkeys(org.Hs.egSYMBOL)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;if( GeneList[1] %in% eg2symbol$symbol ){
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  symbols = GeneList
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  geneIds = eg2symbol[match(symbols, eg2symbol$symbol), &amp;#34;gene_id&amp;#34;]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}else{
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  geneIds = GeneList
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  symbols = eg2symbol[match(geneIds, eg2symbol$gene_id), &amp;#34;symbol&amp;#34;]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;geneNames &amp;lt;- eg2name[match(geneIds, eg2name$gene_id), &amp;#34;gene_name&amp;#34;]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;geneAlias &amp;lt;- sapply(geneIds, function(x){
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  ifelse(is.null(eg2alis_list[[x]]), &amp;#34;no_alias&amp;#34;, eg2alis_list[[x]])
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;})
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;createLink &amp;lt;- function(base,val) {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  sprintf(&amp;#39;&amp;lt;a href = &amp;#34;%s&amp;#34; class = &amp;#34;btn btn-link&amp;#34; target = &amp;#34;_blank&amp;#34; &amp;gt;%s&amp;lt;/a&amp;gt;&amp;#39;, base, val) 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  ##  target = &amp;#34;_blank&amp;#34; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gene_info &amp;lt;- data.frame(Genes = symbols,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                        EntrezID = createLink(paste0(&amp;#34;http://www.ncbi.nlm.nih.gov/gene/&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                     geneIds),
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                              geneIds),
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                        Names = geneNames,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                        Alias = geneAlias,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                        stringsAsFactors = F) 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#library(&amp;#34;xtable&amp;#34;) 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#print(xtable(gene_info), type = &amp;#34;html&amp;#34;, include.rownames = F, file = &amp;#34;all_gene.anno&amp;#34;, sanitize.text.function = force)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;file &amp;lt;- &amp;#34;all_gene_human.html&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;y &amp;lt;- DT::datatable(gene_info, escape = F, rownames = F)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;DT::saveWidget(y, file)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/category/evernote/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Evernotes &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/resources/&#34; &gt;
+      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

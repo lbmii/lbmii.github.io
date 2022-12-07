@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials | Microbial Infections and Immunology</title>
+    <link>https://lbmii.github.io/category/tutorials/</link>
+      <atom:link href="https://lbmii.github.io/category/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tutorials</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lbmii.github.io/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Tutorials</title>
+      <link>https://lbmii.github.io/category/tutorials/</link>
+    </image>
+    
+    <item>
+      <title>Further readings recommended for R users</title>
+      <link>https://lbmii.github.io/resources/books/radvan/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/resources/books/radvan/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://adv-r.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Advanced R&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a book in Chapman &amp;amp; Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as help you to understand why R works the way it does. Links here will direct you to the &lt;code&gt;2nd edition&lt;/code&gt; of &lt;a href=&#34;https://adv-r.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Advanced R&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;. If you’re looking for the &lt;code&gt;1st edition&lt;/code&gt;, you can &lt;a href=&#34;http://adv-r.had.co.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here for more&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-advanced-r&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Advanced R&#34; srcset=&#34;
+               /media/advanr_hu36c24a842a9e9bf40e43ad55d78ead34_71791_306faa8ff1d02fc2d938cf2cd22de44e.webp 400w,
+               /media/advanr_hu36c24a842a9e9bf40e43ad55d78ead34_71791_8019fd34c5ba19551233142c76a1388a.webp 760w,
+               /media/advanr_hu36c24a842a9e9bf40e43ad55d78ead34_71791_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/advanr_hu36c24a842a9e9bf40e43ad55d78ead34_71791_306faa8ff1d02fc2d938cf2cd22de44e.webp&#34;
+               width=&#34;466&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Advanced R
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The website for &lt;a href=&#34;https://advanced-r-solutions.rbind.io/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Advanced R Solutions&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; which provides solutions to the exercises from Hadley Wickham’s Advanced R, 2nd edition. Working through the exercises and their solutions will give you a deep understanding of a variety of programming challenges, many of which are relevant to everyday work. For the &lt;code&gt;2nd edition&lt;/code&gt; of the book, just click on &lt;a href=&#34;https://advanced-r-solutions.rbind.io/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Advanced R Solutions&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;, while solutions to the &lt;code&gt;1st edition&lt;/code&gt; of &lt;a href=&#34;https://advanced-r-solutions.rbind.io/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Advanced R Solutions&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; can be found at &lt;a href=&#34;https://advanced-r-solutions-ed1.netlify.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;netlify.com&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-advanced-r-solutions&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Advanced R Solutions&#34; srcset=&#34;
+               /media/adrso_hu0a93aa14b3285fc2887351b5a418518c_121310_b60288f05ea3876e945a1433edd66514.webp 400w,
+               /media/adrso_hu0a93aa14b3285fc2887351b5a418518c_121310_2331f9752786250bfce9698bdc58b547.webp 760w,
+               /media/adrso_hu0a93aa14b3285fc2887351b5a418518c_121310_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/adrso_hu0a93aa14b3285fc2887351b5a418518c_121310_b60288f05ea3876e945a1433edd66514.webp&#34;
+               width=&#34;476&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Advanced R Solutions
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/category/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/resources/&#34; &gt;
+      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Free books for R beginners</title>
+      <link>https://lbmii.github.io/resources/books/rbegin/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/resources/books/rbegin/</guid>
+      <description>&lt;p&gt;Data science has taken the world by storm. Every field of study and area of business has been affected as people increasingly realize the value of the incredible quantities of data being generated. But to extract value from those data, one needs to be trained in the proper data science skills. The R programming language has become the de facto programming language for data science. Its flexibility, power, sophistication, and expressiveness have made it an invaluable tool for data scientists around the world. &lt;a href=&#34;https://bookdown.org/rdpeng/rprogdatascience/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R Programming for Data Science&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is about the fundamentals of R programming. You will get started with the basics of the language, learn how to manipulate datasets, how to write functions, and how to debug and optimize code. With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-r-programming-for-data-science&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;R Programming for Data Science&#34; srcset=&#34;
+               /media/rpdtsci_hu3b1d8d528246e07934ab64892479c2f4_129264_4f47215fce7a0f03fe47b4d6702b7657.webp 400w,
+               /media/rpdtsci_hu3b1d8d528246e07934ab64892479c2f4_129264_87224f47f84f71a0737c9d44af656873.webp 760w,
+               /media/rpdtsci_hu3b1d8d528246e07934ab64892479c2f4_129264_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/rpdtsci_hu3b1d8d528246e07934ab64892479c2f4_129264_4f47215fce7a0f03fe47b4d6702b7657.webp&#34;
+               width=&#34;281&#34;
+               height=&#34;364&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      R Programming for Data Science
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;https://rstudio-education.github.io/hopr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Hands-On Programming with R&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; will teach you how to program in R, with hands-on examples. The author wrote it for non-programmers to provide a friendly introduction to the R language. You’ll learn how to load data, assemble and disassemble data objects, navigate R environment system, write your own functions, and use all of R programming tools. Throughout the book, you’ll use your newfound skills to solve practical data science problems.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hands-on-programming-with-r&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Hands-On Programming with R&#34; srcset=&#34;
+               /media/cohopr_hu6987db4b1b621fb3f9f1b8e2587c3ccd_28268_e063b9c14554a609184f66d9fa623ea5.webp 400w,
+               /media/cohopr_hu6987db4b1b621fb3f9f1b8e2587c3ccd_28268_04e3deb7d6e7925e5161c7073dbc7cf5.webp 760w,
+               /media/cohopr_hu6987db4b1b621fb3f9f1b8e2587c3ccd_28268_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/cohopr_hu6987db4b1b621fb3f9f1b8e2587c3ccd_28268_e063b9c14554a609184f66d9fa623ea5.webp&#34;
+               width=&#34;315&#34;
+               height=&#34;413&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Hands-On Programming with R
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this book &lt;a href=&#34;https://r-pkgs.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R Packages&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; you’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-r-packages&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;R Packages&#34; srcset=&#34;
+               /media/rpkgs_huec5018deb149a9d1a4cc93aaf360745b_284584_42d9216ba7ffafdf2c757ff7a671fc99.webp 400w,
+               /media/rpkgs_huec5018deb149a9d1a4cc93aaf360745b_284584_efc20a6a334b7526df514f81aa9b18ef.webp 760w,
+               /media/rpkgs_huec5018deb149a9d1a4cc93aaf360745b_284584_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/rpkgs_huec5018deb149a9d1a4cc93aaf360745b_284584_42d9216ba7ffafdf2c757ff7a671fc99.webp&#34;
+               width=&#34;500&#34;
+               height=&#34;656&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      R Packages
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/category/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/resources/&#34; &gt;
+      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>What is data visualization</title>
+      <link>https://lbmii.github.io/resources/books/dataviz/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/resources/books/dataviz/</guid>
+      <description>&lt;p&gt;The demand for skilled data science practitioners in industry, academia, and government is rapidly growing. Introduction to &lt;a href=&#34;http://rafalab.dfci.harvard.edu/dsbook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Data Science: Data Analysis and Prediction Algorithms with R&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; introduces concepts and skills that can help you tackle real-world data analysis challenges. It covers concepts from probability, statistical inference, linear regression, and machine learning. It also helps you develop skills such as R programming, data wrangling with dplyr, data visualization with ggplot2, algorithm building with caret, file organization with UNIX/Linux shell, version control with Git and GitHub, and reproducible document preparation with knitr and R markdown. The book is divided into six parts: R, Data Visualization, Data Wrangling, Statistics with R, Machine Learning, and Productivity Tools. Each part has several chapters meant to be presented as one lecture and includes dozens of exercises distributed across chapters.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-data-science-data-analysis-and-prediction-algorithms-with-r&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Data Science: Data Analysis and Prediction Algorithms with R&#34; srcset=&#34;
+               /media/idsbo_hud0ec82fcae294b4d1d5c358c59a256c5_240457_9ff079e789561188225630ec1428f3a2.webp 400w,
+               /media/idsbo_hud0ec82fcae294b4d1d5c358c59a256c5_240457_0893198aa5cbac0699b2ab53ba136784.webp 760w,
+               /media/idsbo_hud0ec82fcae294b4d1d5c358c59a256c5_240457_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/idsbo_hud0ec82fcae294b4d1d5c358c59a256c5_240457_9ff079e789561188225630ec1428f3a2.webp&#34;
+               width=&#34;580&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Data Science: Data Analysis and Prediction Algorithms with R
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;https://clauswilke.com/dataviz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Fundamentals of Data Visualization&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional. It has grown out of experience of the author working with students and postdocs in laboratory on thousands of data visualizations. Over the years, the autor has noticed that the same issues arise over and over and have attempted to collect my accumulated knowledge from these interactions in the form of this book. The website of &lt;a href=&#34;https://clauswilke.com/dataviz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Fundamentals of Data Visualization&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; contains the complete author manuscript before final copy-editing and other quality control.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fundamentals-of-data-visualization&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fundamentals of Data Visualization&#34; srcset=&#34;
+               /media/fdtvis_hu11ff152b59ee779faa0f9f2a02a95cec_339011_6c074f40cc463082dc96bc4f6515cf3c.webp 400w,
+               /media/fdtvis_hu11ff152b59ee779faa0f9f2a02a95cec_339011_e58c728f304fcf5c8d648e843c00ce00.webp 760w,
+               /media/fdtvis_hu11ff152b59ee779faa0f9f2a02a95cec_339011_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/fdtvis_hu11ff152b59ee779faa0f9f2a02a95cec_339011_6c074f40cc463082dc96bc4f6515cf3c.webp&#34;
+               width=&#34;581&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Fundamentals of Data Visualization
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/category/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/resources/&#34; &gt;
+      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gallery for R graphs and charts</title>
+      <link>https://lbmii.github.io/resources/softwares/rgraphics/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/resources/softwares/rgraphics/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; is a great tool for &lt;a href=&#34;%28https://www.data-to-viz.com/%29&#34;&gt;data visualization&lt;/a&gt;. The native tool becomes even better thanks to external packages such as &lt;a href=&#34;https://cran.r-project.org/web/packages/ggplot2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggplot2&lt;/a&gt; that are widely used in the gallery. If you&amp;rsquo;re wondering what you can do with &lt;a href=&#34;https://r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; in terms of &lt;a href=&#34;https://www.data-to-viz.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dataviz&lt;/a&gt;, the following online resources may help you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.data-to-viz.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;From Data to Viz&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a classification of chart types based on input data format. It comes in the form of a decision tree leading to a set of potentially appropriate visualizations to represent the dataset. The project is built on two underlying philosophies. &lt;em&gt;First&lt;/em&gt;, that most data analysis can be summarized in about twenty different dataset formats. &lt;em&gt;Second&lt;/em&gt;, that both data and context determine the appropriate chart. Thus, &lt;a href=&#34;https://www.data-to-viz.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;From Data to Viz&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; suggested method consists in identifying and trying all feasible chart types to find out which suits your data and idea best. Once this set of graphics is identified, &lt;a href=&#34;https://www.data-to-viz.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;From Data to Viz&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; aims to guide you toward the best decision. It also provides a list of common caveats to avoid and always provides a reproducible code snippet in the &lt;a href=&#34;https://r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R programming language&lt;/a&gt;. &lt;a href=&#34;https://www.data-to-viz.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Dataviz&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a world with endless possibilities and this project does not claim to be exhaustive. However, it should provide you with a good starting point.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://r-charts.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R CHARTS&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; web site has been created without any financial support by José Carlos Soage. It was generated with &lt;a href=&#34;https://cran.r-project.org/web/packages/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt;, an &lt;a href=&#34;https://cran.r-project.org/web/packages/available_packages_by_name.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R package&lt;/a&gt; which allows creating static web sites using the HUGO generator. The theme of this site is a custom theme inspired by Kross and Academic themes. The classification of the charts is based on the Financial Times visual vocabulary. On the site of &lt;a href=&#34;https://r-charts.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R CHARTS&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; you will find code examples of &lt;a href=&#34;https://r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; graphs made with base &lt;a href=&#34;https://r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; graphics, &lt;a href=&#34;https://cran.r-project.org/web/packages/ggplot2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggplot2&lt;/a&gt; and other &lt;a href=&#34;https://cran.r-project.org/web/packages/available_packages_by_name.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R package&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://r-graph-gallery.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R graph gallery&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a collection of charts made with the &lt;a href=&#34;https://r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R programming language&lt;/a&gt;. Charts are organized by family and types. Hundreds (~ 400 charts) of charts are displayed in several sections, always with their reproducible code and explanations available. The gallery makes a focus on the &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyverse&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/web/packages/ggplot2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggplot2&lt;/a&gt;. For each chart, a focus is made on code, but a link toward &lt;a href=&#34;https://www.data-to-viz.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data-to-viz&lt;/a&gt; is provided to give more information concerning the theory.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/category/softwares/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Softwares &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/resources/&#34; &gt;
+      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analyze data with R</title>
+      <link>https://lbmii.github.io/resources/books/adtwr/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/resources/books/adtwr/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; is an amazing platform for data analysis, capable of creating almost any type of graph. &lt;a href=&#34;https://rkabacoff.github.io/datavis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Data Visualization with R&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs. The text relies heavily on the &lt;a href=&#34;%28https://ggplot2.tidyverse.org%29&#34;&gt;ggplot2&lt;/a&gt; package for graphics, but other approaches are covered as well.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-data-visualization-with-r&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Data Visualization with R&#34; srcset=&#34;
+               /media/dtvisr_hu30bc7259820a43fab8468cdcf5b93cf2_236150_aa7b0e03263163ae71d60dc8c1c01789.webp 400w,
+               /media/dtvisr_hu30bc7259820a43fab8468cdcf5b93cf2_236150_f77f8c60449ac2ada1cb96c39faedefc.webp 760w,
+               /media/dtvisr_hu30bc7259820a43fab8468cdcf5b93cf2_236150_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/dtvisr_hu30bc7259820a43fab8468cdcf5b93cf2_236150_aa7b0e03263163ae71d60dc8c1c01789.webp&#34;
+               width=&#34;497&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Data Visualization with R
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;https://r-graphics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R Graphics Cookbook&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R’s graphing systems. Each recipe tackles a specific problem with a solution you can apply to your own project, and includes a discussion of how and why the recipe works.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-r-graphics-cookbook&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;R Graphics Cookbook&#34; srcset=&#34;
+               /media/rgcob_hu1fddca3fcfe3ea6f0970be3a8a12a25a_128376_b2ec337fbddb33d0be6247da7a26bb13.webp 400w,
+               /media/rgcob_hu1fddca3fcfe3ea6f0970be3a8a12a25a_128376_89f52cb943ba67e1155ffeeb0743e4dd.webp 760w,
+               /media/rgcob_hu1fddca3fcfe3ea6f0970be3a8a12a25a_128376_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/rgcob_hu1fddca3fcfe3ea6f0970be3a8a12a25a_128376_b2ec337fbddb33d0be6247da7a26bb13.webp&#34;
+               width=&#34;500&#34;
+               height=&#34;656&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      R Graphics Cookbook
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.datavisualisation-r.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Data Visualisation with R – 111 Examples (2nd Edition)&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; introduces readers to the fundamentals of creating presentation graphics using &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;, based on 111 detailed and complete scripts. It shows how bar and column charts, population pyramids, Lorenz curves, box plots, scatter plots, time series, radial polygons, Gantt charts, heat maps, bump charts, mosaic and balloon charts, and a series of different thematic map types can be created using R’s Base Graphics System. Every example uses real data and includes step-by-step explanations of the figures and their programming. This second edition contains additional examples for cartograms, chord-diagrams and networks, and interactive visualizations with Javascript.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-data-visualization-with-r--111-examples&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Data Visualization with R--111 Examples&#34; srcset=&#34;
+               /media/cover111_2_hu67f1078663056bf303010541addf7e38_72626_49154906819758aae0f9fb4d6cef18e3.webp 400w,
+               /media/cover111_2_hu67f1078663056bf303010541addf7e38_72626_1015e2fcfea302f21b261a8e8bd813b7.webp 760w,
+               /media/cover111_2_hu67f1078663056bf303010541addf7e38_72626_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/cover111_2_hu67f1078663056bf303010541addf7e38_72626_49154906819758aae0f9fb4d6cef18e3.webp&#34;
+               width=&#34;200&#34;
+               height=&#34;303&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Data Visualization with R&amp;ndash;111 Examples
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Data science is an exciting discipline that allows you to turn raw data into understanding, insight, and knowledge. The goal of &lt;a href=&#34;https://r4ds.had.co.nz/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R for Data Science&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is to help you learn the most important tools in &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; that will allow you to do data science. And the website of &lt;a href=&#34;https://r4ds.had.co.nz/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;R for Data Science&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is and will always be free to use. After reading this book, you’ll have the tools to tackle a wide variety of data science challenges, using the best parts of &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-r-for-data-science&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;R for Data Science&#34; srcset=&#34;
+               /media/r4dtsci_hu5dbd3eb8a564bbe98238208f7a1c86ab_341755_8215e0980a59afdb495cd1356fcfe622.webp 400w,
+               /media/r4dtsci_hu5dbd3eb8a564bbe98238208f7a1c86ab_341755_16aea05f4e43f39c5e1812d5ba9ac07c.webp 760w,
+               /media/r4dtsci_hu5dbd3eb8a564bbe98238208f7a1c86ab_341755_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/r4dtsci_hu5dbd3eb8a564bbe98238208f7a1c86ab_341755_8215e0980a59afdb495cd1356fcfe622.webp&#34;
+               width=&#34;500&#34;
+               height=&#34;750&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      R for Data Science
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/category/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/resources/&#34; &gt;
+      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

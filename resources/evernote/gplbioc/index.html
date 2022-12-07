@@ -1,0 +1,2825 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Lab Admin" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://lbmii.github.io/resources/evernote/gplbioc/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.7579f2ea081d74b9cb40a7d984071feb.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://lbmii.github.io/resources/evernote/gplbioc/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
+  
+  <meta property="og:site_name" content="Microbial Infections and Immunology" />
+  <meta property="og:url" content="https://lbmii.github.io/resources/evernote/gplbioc/" />
+  <meta property="og:title" content="Bioconductor packages for GEO platform annotation | Microbial Infections and Immunology" />
+  <meta property="og:description" content="" /><meta property="og:image" content="https://lbmii.github.io/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://lbmii.github.io/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-11-18T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-11-18T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+
+  <title>Bioconductor packages for GEO platform annotation | Microbial Infections and Immunology</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="650b2afd248a29ce9ad430fe8dc3be01" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.613040fe4f2c0f007b4dcb64404201cb.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Microbial Infections and Immunology</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Microbial Infections and Immunology</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/members"><span>Members</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/news"><span>News</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/resources/database/dbbmr"><span>Databases</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Bioconductor packages for GEO platform annotation</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Friday, 18 Nov 2022 
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/evernotes/">Evernotes</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <table class="table">
+  
+    
+    
+    <tr>  <th></th>  <th>GPL</th>  <th>Organism</th>  <th>Bioc_Package</th>  <th></th>  <th>Chip_Name</th>  </tr>
+  
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">1</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL32</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">mgu74a.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[MG_U74A] Affymetrix Murine Genome U74A Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">2</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL33</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">mgu74b.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[MG_U74B] Affymetrix Murine Genome U74B Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">3</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL34</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">mgu74c.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[MG_U74C] Affymetrix Murine Genome U74C Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">4</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL74</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hcg110.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HC_G110] Affymetrix Human Cancer Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">5</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL75</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">mu11ksuba.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[Mu11KsubA] Affymetrix Murine 11K SubA Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">6</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL76</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">mu11ksubb.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[Mu11KsubB] Affymetrix Murine 11K SubB Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">7</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL77</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">mu19ksuba.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[Mu19KsubA] Affymetrix Murine 19K SubA Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">8</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL78</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">mu19ksubb.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[Mu19KsubB] Affymetrix Murine 19K SubB Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">9</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL79</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">mu19ksubc.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[Mu19KsubC] Affymetrix Murine 19K SubC Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">10</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL80</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hu6800.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[Hu6800] Affymetrix Human Full Length HuGeneFL Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">11</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL81</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">mgu74av2.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[MG_U74Av2] Affymetrix Murine Genome U74A Version 2 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">12</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL82</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">mgu74bv2.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[MG_U74Bv2] Affymetrix Murine Genome U74B Version 2 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">13</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL83</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">mgu74cv2.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[MG_U74Cv2] Affymetrix Murine Genome U74 Version 2 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">14</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL85</td>
+        
+      
+        
+          <td data-table-dtype="text">Rattus norvegicus</td>
+        
+      
+        
+          <td data-table-dtype="text">rgu34a.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[RG_U34A] Affymetrix Rat Genome U34 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">15</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL86</td>
+        
+      
+        
+          <td data-table-dtype="text">Rattus norvegicus</td>
+        
+      
+        
+          <td data-table-dtype="text">rgu34b.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[RG_U34B] Affymetrix Rat Genome U34 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">16</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL87</td>
+        
+      
+        
+          <td data-table-dtype="text">Rattus norvegicus</td>
+        
+      
+        
+          <td data-table-dtype="text">rgu34c.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[RG_U34C] Affymetrix Rat Genome U34 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">17</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL88</td>
+        
+      
+        
+          <td data-table-dtype="text">Rattus norvegicus</td>
+        
+      
+        
+          <td data-table-dtype="text">rnu34.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[RN_U34] Affymetrix Rat Neurobiology U34 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">18</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL89</td>
+        
+      
+        
+          <td data-table-dtype="text">Rattus norvegicus</td>
+        
+      
+        
+          <td data-table-dtype="text">rtu34.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[RT_U34] Affymetrix Rat Toxicology U34 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">19</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL91</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgu95av2.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HG_U95A] Affymetrix Human Genome U95A Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">20</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL92</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgu95b.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HG_U95B] Affymetrix Human Genome U95B Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">21</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL93</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgu95c.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HG_U95C] Affymetrix Human Genome U95C Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">22</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL94</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgu95d.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HG_U95D] Affymetrix Human Genome U95D Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">23</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL95</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgu95e.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HG_U95E] Affymetrix Human Genome U95E Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">24</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL96</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgu133a.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HG-U133A] Affymetrix Human Genome U133A Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">25</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL97</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgu133b.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HG-U133B] Affymetrix Human Genome U133B Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">26</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL98</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hu35ksuba.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[Hu35KsubA] Affymetrix Human 35K SubA Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">27</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL99</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hu35ksubb.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[Hu35KsubB] Affymetrix Human 35K SubB Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">28</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL100</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hu35ksubc.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[Hu35KsubC] Affymetrix Human 35K SubC Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">29</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL101</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hu35ksubd.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[Hu35KsubD] Affymetrix Human 35K SubD Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">30</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL201</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgfocus.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HG-Focus] Affymetrix Human HG-Focus Target Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">31</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL339</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">moe430a.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[MOE430A] Affymetrix Mouse Expression 430A Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">32</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL340</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">mouse4302.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[MOE430B] Affymetrix Mouse Expression 430B Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">33</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL341</td>
+        
+      
+        
+          <td data-table-dtype="text">Rattus norvegicus</td>
+        
+      
+        
+          <td data-table-dtype="text">rae230a.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[RAE230A] Affymetrix Rat Expression 230A Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">34</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL342</td>
+        
+      
+        
+          <td data-table-dtype="text">Rattus norvegicus</td>
+        
+      
+        
+          <td data-table-dtype="text">rae230b.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[RAE230B] Affymetrix Rat Expression 230B Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">35</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL570</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgu133plus2.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">36</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL571</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgu133a2.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HG-U133A_2] Affymetrix Human Genome U133A 2.0 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">37</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL886</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgug4111a.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">Agilent-011871 Human 1B Microarray G4111A (Feature Number version)</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">38</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL887</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgug4110b.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">Agilent-012097 Human 1A Microarray (V2) G4110B (Feature Number version)</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">39</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL1261</td>
+        
+      
+        
+          <td data-table-dtype="text">Mus musculus</td>
+        
+      
+        
+          <td data-table-dtype="text">mouse430a2.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[Mouse430_2] Affymetrix Mouse Genome 430 2.0 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">40</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL1352</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">u133x3p.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[U133_X3P] Affymetrix Human X3P Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">41</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL1355</td>
+        
+      
+        
+          <td data-table-dtype="text">Rattus norvegicus</td>
+        
+      
+        
+          <td data-table-dtype="text">rat2302.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[Rat230_2] Affymetrix Rat Genome 230 2.0 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">42</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL1708</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgug4112a.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">Agilent-012391 Whole Human Genome Oligo Microarray G4112A (Feature Number version)</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">43</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL2891</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">h20kcod.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">GE Healthcare/Amersham Biosciences CodeLink? UniSet Human 20K I Bioarray</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">44</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL2898</td>
+        
+      
+        
+          <td data-table-dtype="text">Rattus norvegicus</td>
+        
+      
+        
+          <td data-table-dtype="text">adme16cod.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">GE Healthcare/Amersham Biosciences CodeLink? ADME Rat 16-Assay Bioarray</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">45</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL3921</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hthgu133a.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HT_HG-U133A] Affymetrix HT Human Genome U133A Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">46</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL4191</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">h10kcod.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">CodeLink UniSet Human I Bioarray</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">47</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL5689</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgug4100a.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">Agilent Human 1 cDNA Microarray (G4100A) [layout C]</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">48</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL6097</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">illuminaHumanv1.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">Illumina human-6 v1.0 expression beadchip</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">49</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL6102</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">illuminaHumanv2.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">Illumina human-6 v2.0 expression beadchip</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">50</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL6244</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hugene10sttranscriptcluster.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version]</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">51</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL6947</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">illuminaHumanv3.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">Illumina HumanHT-12 V3.0 expression beadchip</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">52</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL8300</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgu95av2.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HG_U95Av2] Affymetrix Human Genome U95 Version 2 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">53</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL8490</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">IlluminaHumanMethylation27k.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">Illumina HumanMethylation27 BeadChip (HumanMethylation27_270596_v.1.2)</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">54</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL10558</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">illuminaHumanv4.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">Illumina HumanHT-12 V4.0 expression beadchip</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">55</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL11532</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hugene11sttranscriptcluster.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HuGene-1_1-st] Affymetrix Human Gene 1.1 ST Array [transcript (gene) version]</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">56</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL13497</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">HsAgilentDesign026652.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">Agilent-026652 Whole Human Genome Microarray 4x44K v2 (Probe Name version)</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">57</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL13534</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">IlluminaHumanMethylation450k.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">Illumina HumanMethylation450 BeadChip (HumanMethylation450_15017482)</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">58</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL13667</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hgu219.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HG-U219] Affymetrix Human Genome U219 Array</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">59</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL15380</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">GGHumanMethCancerPanelv1.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">Illumina Sentrix Array Matrix (SAM) - GoldenGate Methylation Cancer Panel I</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">60</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL15396</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hthgu133b.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HT_HG-U133B] Affymetrix HT Human Genome U133B Array [custom CDF: ENTREZ brainarray v. 14]</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td data-table-dtype="number">61</td>
+        
+      
+        
+          <td data-table-dtype="text">GPL17897</td>
+        
+      
+        
+          <td data-table-dtype="text">Homo sapiens</td>
+        
+      
+        
+          <td data-table-dtype="text">hthgu133a.db</td>
+        
+      
+        
+          <td data-table-dtype="text"></td>
+        
+      
+        
+          <td data-table-dtype="text">[HT_HG-U133A] Affymetrix Human Genome U133A Array (custom CDF: HTHGU133A_Hs_ENTREZG.cdf version 17.0.0)</td>
+        
+      
+    </tr>
+  
+  
+</table>
+
+<ul class="cta-group">
+  
+  <li>
+    <a href="/category/evernote/"  class="btn btn-primary px-3 py-3"><font color='white'> &lt; Back to Evernotes </font></a>
+  </li>
+  
+  
+  <li>
+    <a href="/resources/" >
+      Alternative to Online Resources <i class="fas fa-angle-right"></i>
+    </a>
+  </li>
+  
+</ul>
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/r/">R</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/lab-admin/"><img class="avatar mr-3 avatar-circle" src="/author/lab-admin/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg" alt="Lab Admin"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/lab-admin/">Lab Admin</a></h5>
+      <h6 class="card-subtitle">Student of Bioengineering</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:bmiicore@outlook.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/" target="_blank" rel="noopener">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    Copyright©2017-2022 Microbial Infections and Immunology. All rights reserved
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.d26509351aa0ff874abbee824e982e9b.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.54dd6e4d8f2e4b1d098381b57f18dd83.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

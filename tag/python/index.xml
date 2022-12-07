@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | Microbial Infections and Immunology</title>
+    <link>https://lbmii.github.io/tag/python/</link>
+      <atom:link href="https://lbmii.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lbmii.github.io/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Python</title>
+      <link>https://lbmii.github.io/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>Python for data analysis</title>
+      <link>https://lbmii.github.io/resources/books/pybooks/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/resources/books/pybooks/</guid>
+      <description>&lt;p&gt;The 3rd edition of &lt;a href=&#34;https://wesmckinney.com/book&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Python for Data Analysis&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is now available as an “Open Access” HTML version in addition to the usual print and e-book formats. This edition was initially published in August 2022 and will have errata fixed periodically over the coming months and years.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-python-for-data-analysis&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Python for data analysis&#34; srcset=&#34;
+               /media/pydtana_hufeb670b4c566b1d6dbeb674c73148e5a_81606_a8919f4900d9b6b727be324546b843b0.webp 400w,
+               /media/pydtana_hufeb670b4c566b1d6dbeb674c73148e5a_81606_8a59121393f1e05fc8c42ebc41add0bf.webp 760w,
+               /media/pydtana_hufeb670b4c566b1d6dbeb674c73148e5a_81606_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://lbmii.github.io/media/pydtana_hufeb670b4c566b1d6dbeb674c73148e5a_81606_a8919f4900d9b6b727be324546b843b0.webp&#34;
+               width=&#34;500&#34;
+               height=&#34;656&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Python for data analysis
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/category/books/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Books &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/resources/&#34; &gt;
+      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
