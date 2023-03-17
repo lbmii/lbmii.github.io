@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microbial Infections and Immunology</title>
+    <link>https://lbmii.github.io/tools/</link>
+      <atom:link href="https://lbmii.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
+    <description>Microbial Infections and Immunology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lbmii.github.io/media/icon_hu1efa9af2edf414d45fb59503b457ea16_13437_512x512_fill_lanczos_center_3.png</url>
+      <title>Microbial Infections and Immunology</title>
+      <link>https://lbmii.github.io/tools/</link>
+    </image>
+    
+    <item>
+      <title>Pick primers for PCR</title>
+      <link>https://lbmii.github.io/tools/primers/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/tools/primers/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://primer3.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer3&lt;/strong&gt;&lt;/a&gt; is a widely used program for designing PCR primers. PCR is an essential and ubiquitous tool in genetics and molecular biology. &lt;a href=&#34;https://primer3.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer3&lt;/strong&gt;&lt;/a&gt; can also design hybridization probes and sequencing primers. PCR is used for many different goals. Consequently, &lt;a href=&#34;https://primer3.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;primer3&lt;/strong&gt;&lt;/a&gt; has many different input parameters that you control and that tell &lt;a href=&#34;https://primer3.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer3&lt;/strong&gt;&lt;/a&gt; exactly what characteristics make good primers for your goals. &lt;a href=&#34;https://primer3.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer3&lt;/strong&gt;&lt;/a&gt; can be accessed alternatively via portal of &lt;a href=&#34;https://ginkgo.zju.edu.cn/genome/tools/primer3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Zhejiang University&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer-BLAST&lt;/strong&gt;&lt;/a&gt; was developed at NCBI to help users make primers that are specific to intended PCR target.  It uses &lt;a href=&#34;https://primer3.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer3&lt;/strong&gt;&lt;/a&gt; to design PCR primers and then uses BLAST and global alignment algorithm to screen primers against user-selected databasein order to avoid primer pairs (all combinations including forward-reverse primer pair, forward-forward as well as reverse-reverse pairs) that can cause non-specific amplifications. To cite &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer-BLAST&lt;/strong&gt;&lt;/a&gt; or look for more details, please consult publication: &lt;u&gt;Ye J, Coulouris G, Zaretskaya I, Cutcutache I, Rozen S, Madden T (2012). &lt;strong&gt;Primer-BLAST: A tool to design target-specific primers for polymerase chain reaction&lt;/strong&gt;. BMC Bioinformatics. 13:134.&lt;/u&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quick find genes locally</title>
+      <link>https://lbmii.github.io/tools/2018-10-12-gene-local-query/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/tools/2018-10-12-gene-local-query/</guid>
+      <description>&lt;p&gt;As for biomedical researchers, primer design is a basic and essential skill, which needs to query a gene first. Most may turn to NCBI gene or nucleotide sub-Databases for their works. Sometimes, however, it is OK at first, but much more time-consuming later whether for low speed of the internet or other unknown reasons. To speed-up, here provides local query for genes. Clicking EntrezID would directs to NCBI gene page. Beside, local files enable to select species first.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Choose a species below:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;../human.html/&#34;&gt;&lt;em&gt;Homo sapiens&lt;/em&gt; (Human)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;../mouse.html/&#34;&gt;&lt;em&gt;Mus musculus&lt;/em&gt; (Mouse)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;../rat.html/&#34;&gt;&lt;em&gt;Rattus norvegicus&lt;/em&gt; (Norway rat)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

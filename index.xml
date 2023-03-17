@@ -133,31 +133,6 @@
     </item>
     
     <item>
-      <title>Labs for RNA research</title>
-      <link>https://lbmii.github.io/resources/labs/rnalabs/</link>
-      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://lbmii.github.io/resources/labs/rnalabs/</guid>
-      <description>&lt;p&gt;Lab of &lt;a href=&#34;https://www.iit.it/web/rna-systems-biology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;RNA Systems Biology&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;http://www.tartaglialab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Tartaglia Lab&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; @ Istituto Italiano di Tecnologia (IIT), Genoa, Italy&lt;/p&gt;
-&lt;p&gt;Our main focus is to understand the role played by RNA molecules in protein networks. Characterizing protein-RNA associations is key to unravel the complexity and functionality of mammalian genomes and will open up therapeutic avenues for the treatment of a broad range of human disorders.  We aim to discover the involvement of RNA molecules in regulatory networks controlling protein production and we are interested in understanding mechanisms whose alteration lead to aberrant aggregation, such as the one observed in amyloid diseases. We have recently observed that interaction between proteins and RNAs induce feedback loops that are crucial in protein homeostasis. We also found that specific RNAs promote phase separation of proteins in the cytosol and nucleus and we are designing synthetic RNA molecules to manipulate the formation of complexes.&lt;/p&gt;
-&lt;p&gt;Lab of &lt;a href=&#34;http://www.cuilab.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Bioinformatics and Systems Biology&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; @ &lt;a href=&#34;https://www.pku.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peking University&lt;/a&gt;, Beijing, China&lt;/p&gt;
-&lt;p&gt;The aim of &lt;a href=&#34;http://www.cuilab.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Cui Lab&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is developing methods of bioinformatics and systems biology to investigate biomedical sciences or provide helps for biologists and medical scientists in their studies. Currently, we focus on developing bioinformatic methods of noncoding RNAs and network pharmacology for complex diseases such as cardiovascular diseases.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://lbmii.github.io/category/labs/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Labs &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://lbmii.github.io/resources/&#34; &gt;
-      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
       <link>https://lbmii.github.io/news/02-congrat_example/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
@@ -239,54 +214,17 @@
     </item>
     
     <item>
-      <title>European Molecular Biology Laboratory (EMBL)</title>
-      <link>https://lbmii.github.io/resources/labs/emblebi/</link>
+      <title>Pick primers for PCR</title>
+      <link>https://lbmii.github.io/tools/primers/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://lbmii.github.io/resources/labs/emblebi/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://www.embl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;European Molecular Biology Laboratory (EMBL)&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a powerhouse of biological expertise. EMBL is an intergovernmental organisation, headquartered in Heidelberg, and was founded in 1974 with the mission of promoting molecular biology research in Europe, training young scientists, and developing new technologies. With 27 member states, &lt;a href=&#34;https://www.embl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;EMBL&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; has more than 110 independent research groups and service teams covering the spectrum of molecular biology at six sites in &lt;a href=&#34;https://www.embl.org/sites/barcelona/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Barcelona&lt;/a&gt;, &lt;a href=&#34;https://www.embl.org/sites/grenoble/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grenoble&lt;/a&gt;, &lt;a href=&#34;https://www.embl.org/sites/hamburg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hamburg&lt;/a&gt;, &lt;a href=&#34;https://www.embl.org/sites/heidelberg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heidelberg&lt;/a&gt;, &lt;a href=&#34;https://www.ebi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMBL-EBI Hinxton&lt;/a&gt;, and &lt;a href=&#34;https://www.embl.org/sites/rome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rome&lt;/a&gt;.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-six-sites-across-europe-of-embl&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Six sites across Europe of EMBL&#34; srcset=&#34;
-               /media/emblsix_huc76798c079f739eadb0147e043a96539_348618_9790df3f0aa97f27a90c184bda7b4488.webp 400w,
-               /media/emblsix_huc76798c079f739eadb0147e043a96539_348618_d946f1e2db3e60d5072e138edab37231.webp 760w,
-               /media/emblsix_huc76798c079f739eadb0147e043a96539_348618_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://lbmii.github.io/media/emblsix_huc76798c079f739eadb0147e043a96539_348618_9790df3f0aa97f27a90c184bda7b4488.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;510&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Six sites across Europe of EMBL
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.ebi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;EMBL-EBI&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is international, innovative and interdisciplinary, and a champion of open data in the life sciences. &lt;a href=&#34;https://www.ebi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;EMBL-EBI&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is a part of the &lt;a href=&#34;%28https://www.embl.org/%29&#34;&gt;European Molecular Biology Laboratory (EMBL)&lt;/a&gt;, an intergovernmental research organisation funded by over 20 member states, prospect and associate member states.&lt;/p&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://lbmii.github.io/category/labs/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Labs &lt;/font&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://lbmii.github.io/resources/&#34; &gt;
-      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
-    &lt;/a&gt;
-  &lt;/li&gt;
-  
+      <guid>https://lbmii.github.io/tools/primers/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://primer3.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer3&lt;/strong&gt;&lt;/a&gt; is a widely used program for designing PCR primers. PCR is an essential and ubiquitous tool in genetics and molecular biology. &lt;a href=&#34;https://primer3.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer3&lt;/strong&gt;&lt;/a&gt; can also design hybridization probes and sequencing primers. PCR is used for many different goals. Consequently, &lt;a href=&#34;https://primer3.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;primer3&lt;/strong&gt;&lt;/a&gt; has many different input parameters that you control and that tell &lt;a href=&#34;https://primer3.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer3&lt;/strong&gt;&lt;/a&gt; exactly what characteristics make good primers for your goals. &lt;a href=&#34;https://primer3.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer3&lt;/strong&gt;&lt;/a&gt; can be accessed alternatively via portal of &lt;a href=&#34;https://ginkgo.zju.edu.cn/genome/tools/primer3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Zhejiang University&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer-BLAST&lt;/strong&gt;&lt;/a&gt; was developed at NCBI to help users make primers that are specific to intended PCR target.  It uses &lt;a href=&#34;https://primer3.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer3&lt;/strong&gt;&lt;/a&gt; to design PCR primers and then uses BLAST and global alignment algorithm to screen primers against user-selected databasein order to avoid primer pairs (all combinations including forward-reverse primer pair, forward-forward as well as reverse-reverse pairs) that can cause non-specific amplifications. To cite &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Primer-BLAST&lt;/strong&gt;&lt;/a&gt; or look for more details, please consult publication: &lt;u&gt;Ye J, Coulouris G, Zaretskaya I, Cutcutache I, Rozen S, Madden T (2012). &lt;strong&gt;Primer-BLAST: A tool to design target-specific primers for polymerase chain reaction&lt;/strong&gt;. BMC Bioinformatics. 13:134.&lt;/u&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -296,6 +234,42 @@
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://lbmii.github.io/publication/preprint/expanim.22-0023/</guid>
       <description>&lt;p&gt;Additional contexts can be displayed here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quick find genes locally</title>
+      <link>https://lbmii.github.io/tools/2018-10-12-gene-local-query/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://lbmii.github.io/tools/2018-10-12-gene-local-query/</guid>
+      <description>&lt;p&gt;As for biomedical researchers, primer design is a basic and essential skill, which needs to query a gene first. Most may turn to NCBI gene or nucleotide sub-Databases for their works. Sometimes, however, it is OK at first, but much more time-consuming later whether for low speed of the internet or other unknown reasons. To speed-up, here provides local query for genes. Clicking EntrezID would directs to NCBI gene page. Beside, local files enable to select species first.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Choose a species below:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;../human.html/&#34;&gt;&lt;em&gt;Homo sapiens&lt;/em&gt; (Human)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;../mouse.html/&#34;&gt;&lt;em&gt;Mus musculus&lt;/em&gt; (Mouse)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;../rat.html/&#34;&gt;&lt;em&gt;Rattus norvegicus&lt;/em&gt; (Norway rat)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/tag/databases/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Databases&lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lbmii.github.io/tool/&#34; &gt;
+      Alternative to Tools &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
 </description>
     </item>
     
